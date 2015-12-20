@@ -1,0 +1,135 @@
+/* Reset */
+html,body,div,span,applet,object,iframe,input,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{
+		margin:0;
+		padding:0;
+	}
+	
+	input[type="text"]:focus { outline: none; }
+	/* General Section */
+	
+	html, body, textarea, input { 
+		font-family: Arial, Helvetica, sans-serif;
+		font-size:12px;
+		-webkit-text-size-adjust:none;
+	}
+	
+	p {
+		color:#7a7a7a;
+	}
+	
+	a {
+		color:#7a7a7a;
+	}
+	
+	a:hover {
+		text-decoration:none;
+	}
+	
+	img { border:0; }
+	
+	/* LOGIN */
+	html {
+	 background-color:#f1f0f6;
+	 height:100%;
+	 margin:auto;
+	 width:937px;
+	}
+	
+	#form {
+		margin-top:180px;
+	}
+	
+	#form-login {
+		background-color:#FFF;
+		width:335px;
+		margin:auto;
+		-moz-box-shadow: 0 0 5px 5px #ccc;
+	 	-webkit-box-shadow: 0 0 5px 5px#ccc;
+ 		box-shadow: 0 0 100px 15px #ccc;
+		-webkit-border-bottom-right-radius: 5px;
+		-webkit-border-bottom-left-radius: 5px;
+		-moz-border-radius-bottomright: 5px;
+		-moz-border-radius-bottomleft: 5px;
+		border-bottom-right-radius: 5px;
+		border-bottom-left-radius: 5px;
+	}
+	
+	#content {
+		margin-left:22px;
+		margin-right:22px;
+		margin-top:20px;
+		padding-bottom:20px;
+	}
+	#content-header {
+		background-image:url(../dis-images/login_header.jpg);
+		height:60px;
+		border:1px solid #1f252e;
+		-webkit-border-top-left-radius: 5px;
+		-webkit-border-top-right-radius: 5px;
+		-moz-border-radius-topleft: 5px;
+		-moz-border-radius-topright: 5px;
+		border-top-left-radius: 5px;
+		border-top-right-radius: 5px;
+	}
+	#logo {
+		color:#FFF; 
+		font-size:20px; 
+		font-family: 'Cuprum', Arial, sans-serif;
+		display:block;
+		margin-left:90px;
+		margin-top:15px;
+	}
+	#remember {
+		float:left;
+	}
+	
+	#forgot {
+		float:right;
+	}
+	
+	input[type=text] {
+		background-image:url(../dis-images/login_input.jpg);
+		width:234px;
+		height:40px;
+		border:0;
+		-webkit-border-radius: 5px;
+		-moz-border-radius: 5px;
+		border-radius: 5px;
+		padding-left:10px;
+		padding-right:40px;
+		font-size:14px;
+		font-family: Arial, Helvetica, sans-serif;
+		color:#999999;
+	}
+	input[type=password] {
+		background-image:url(../dis-images/login_input.jpg);
+		width:234px;
+		height:40px;
+		border:0;
+		-webkit-border-radius: 5px;
+		-moz-border-radius: 5px;
+		border-radius: 5px;
+		padding-left:10px;
+		padding-right:40px;
+		font-size:14px;
+		font-family: Arial, Helvetica, sans-serif;
+		color:#999999;
+	}
+	#pass {
+		background-position:0px -40px;
+	}
+	input[type=submit] {
+		background-image:url(../dis-images/button-messages.png);
+		background-position:-0px -36px;
+		border:1px solid #2c333d;
+		width:286px;
+		height:37px;
+		-webkit-border-radius: 5px;
+		-moz-border-radius: 5px;
+		border-radius: 5px;
+		font-size:14px;
+		font-family: Arial, Helvetica, sans-serif;
+		color:#fff;
+		margin-top:50px;
+		cursor:pointer;
+	}

@@ -1,0 +1,140 @@
+body { font-family:Arial, Helvetica, sans-serif;}
+header { border-bottom:4px solid #f4f4f4;}
+.m-p-0 { margin:0px; padding:0px;}
+.text-head { margin-top:0px; padding-bottom:4px; border-bottom:1px solid #d5d5d5;}
+.mid_content { margin-top:20px; margin-bottom:25px;}
+.text-caps { text-transform:uppercase;}
+.text-white { color:#FFFFFF;}
+.text-theme { color:#CCCCCC;}
+.text-orange {color:#ee6a14 !important;}
+.text-13 { font-size:13px;}
+/*top_nav work start*/
+.top_nev { padding:5px 0; background:#373838; color:#d3d3d3;}
+.top_nev ul { margin-bottom:0px !important;}
+.top_nev ul li a { color:#d3d3d3;}
+.top_nev ul li a:hover {color:#FFFFFF;text-decoration:none;-webkit-transition: all 0.2s ease-in-out -o-transition: all 0.2s ease-in-out;transition: all 0.2s ease-in-out;}
+/*top_nav work end*/
+
+/*theme_navigation work start here*/
+.theme_navigation {border-radius:0px !important; border-top:none !important;
+background: #ffffff; /* Old browsers */
+background: -moz-linear-gradient(top,  #ffffff 0%, #e6e6e6 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#e6e6e6)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #ffffff 0%,#e6e6e6 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #ffffff 0%,#e6e6e6 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #ffffff 0%,#e6e6e6 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #ffffff 0%,#e6e6e6 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e6e6e6',GradientType=0 ); /* IE6-9 */
+border:1px solid #f4f4f4;}
+.theme_navigation .navbar-brand:hover, .navbar-default .navbar-brand { color:#666666;}
+.theme_navigation .navbar-brand:hover, .navbar-default .navbar-brand:focus { color:#666666 !important;}
+.theme_navigation .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a { color:#666666 !important;}
+.theme_navigation .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus { color:#FFF !important; background:#ca4c15;}
+.theme_navigation .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus { background:#ca4c15;}
+.theme_navigation .dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus { background:#ca4c15 !important;}
+.theme_navigation .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle { background:#e75a1d !important; border:1px solid #ce3f01;}
+.theme_navigation .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {background:#e75a1d !important;}
+.theme_navigation.navbar-default .navbar-collapse, .navbar-default .navbar-form { border:none !important;}
+.theme_navigation .navbar-toggle { margin-top:20px !important;}
+.theme_navigation .nav { margin-top:20px; margin-bottom:20px;}
+.theme_navigation .nav > li > a { padding:5px 15px !important; border-radius:4px;}
+.navbar-nav > li > .theme_nav_dropdown { margin-top:32px; border-top: medium none !important;
+background: linear-gradient(to bottom, #FFF 0%, #E6E6E6 100%) repeat scroll 0% 0% transparent;}
+ul.nav.navbar-nav li a.active { color: #FFF !important; background: none repeat scroll 0% 0% #CA4C15;}
+/*theme_navigation work end here*/
+
+/*index page riht tab start*/
+.theme_tab ul li { font-size:16px; font-weight:bold;}
+.theme_tab .tab_body {border:1px solid #d5d5d5; border-top:none; padding:20px; border-radius:0px 0px 4px 4px;}
+.theme_tab.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {}
+.theme_tab.nav-tabs a { color:#F0F !important;}
+
+.index_right_part .titel { margin:9px 0 9px 0; font-size:22px;}
+.index_right_part .panel-primary > .panel-heading { color:#5c5c5c;
+background: #fefefe; /* Old browsers */
+background: -moz-linear-gradient(top,  #fefefe 0%, #f1f1f1 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fefefe), color-stop(100%,#f1f1f1)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #fefefe 0%,#f1f1f1 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #fefefe 0%,#f1f1f1 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #fefefe 0%,#f1f1f1 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #fefefe 0%,#f1f1f1 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fefefe', endColorstr='#f1f1f1',GradientType=0 ); /* IE6-9 */
+}
+.index_right_part .panel-primary { border:1px solid #d8d8d8 !important;}
+.panel-primary > .panel-heading + .panel-collapse > .panel-body { border-top:1px solid #d8d8d8;}
+.index_right_part .panel-primary > .panel-heading a { display:block; text-decoration:none;}
+/*index page riht tab end*/
+
+/*company_logo_slider work strat*/
+.company_logo_slider { margin:15px 0;}
+.carousel-indicators .active { background:#fb824d;}
+.carousel-indicators li { border:1px solid #DD4814;}
+.carousel-control { margin:0 2%; padding:0 5px; top:32%; background:#f25d1c; font-size:14px; color:#FFFFFF; bottom:auto; width:auto; border-radius: 100px;}
+/*company_logo_slider work end*/
+
+/*footer section work start*/
+.foter_first { padding:10px 0 25px 0; border-top:8px solid #262626; background: url(../images2015/footer_bg.png) repeat left top #262626;}
+.foter_first h3 { color:#CCCCCC;}
+.foter_first ul li { font-size:12px;}
+.foter_first a { color:#cccccc;}
+.foter_first .box-style { margin-bottom:15px; padding:10px 15px; background:rgba(70, 70, 70, .2); border:2px solid #434343; border-radius: 8px;}
+.box-style li { margin-bottom:15px;}
+.box-style li strong { color:#ffffff !important; font-size:16px;}
+.box-style li i { color:#999999;}
+.box-style li i.fa-facebook-square { color:#3d61b0;}
+.box-style li i.fa-twitter-square { color:#64c8e8;}
+.box-style li i.fa-linkedin-square { color:#02648e;}
+.box-style li i.fa-google-plus-square { color:#c53c2c;}
+
+.foter_bottom {box-shadow:inset 0px 8px 8px #141414; border-top:2px solid #262626; background:#262626;}
+.footer_nav { padding: 10px 0; border-bottom:1px solid #747474; color:#999999; font-size:18px; font-weight:normal;
+background: #2a2a2a; /* Old browsers */
+background: -moz-linear-gradient(top, #2a2a2a 0%, #3d3d3d 46%, #3d3d3d 48%, #3d3d3d 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#2a2a2a), color-stop(46%,#3d3d3d), color-stop(48%,#3d3d3d), color-stop(100%,#3d3d3d)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #2a2a2a 0%,#3d3d3d 46%,#3d3d3d 48%,#3d3d3d 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #2a2a2a 0%,#3d3d3d 46%,#3d3d3d 48%,#3d3d3d 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #2a2a2a 0%,#3d3d3d 46%,#3d3d3d 48%,#3d3d3d 100%); /* IE10+ */
+background: linear-gradient(to bottom, #2a2a2a 0%,#3d3d3d 46%,#3d3d3d 48%,#3d3d3d 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2a2a2a', endColorstr='#3d3d3d',GradientType=0 ); /* IE6-9 */}
+.footer_nav a { color:#999999;}
+.footer_nav a:hover { text-decoration:none; color:#FFFFFF; transition:all 0.2s ease-in-out 0.2s;}
+.foter_bottom ul li { font-size:16px;}
+.foter_bottom ul li a { color:#CCCCCC; font-size:14px;}
+.foter_bottom ul li a:hover { color:#FFFFFF; transition:all 0.2s ease-in-out 0.2s;}
+/*footer section work end*/
+
+/*this css use for coupon start here*/
+.coupon_head_text { margin-bottom:14px; padding-bottom:4px; border-bottom:1px dashed #CCCCCC; font-size:20px;}
+.coupon_outer { margin-bottom:15px;padding-bottom:13px;background:url(../images2015/screenshot_shadow.png) no-repeat bottom center;background-size: 100%;}
+.coupon { border:1px solid #dddddd;border-radius:4px;background:#FFFFFF; height:220px; overflow:hidden;}
+.coupon:hover {box-shadow:0px -2px 4px #dddddd;transition:all 0.2s ease-in-out 0.2s;}
+.coupon .head { padding:8px; border-bottom:1px solid #d5d5d5; height:65px; overflow:hidden;}
+.coupon .head img { margin:0 auto;}
+.coupon .body {padding:8px; height:125px; border-bottom:1px solid #d5d5d5; position:relative; }
+.coupon .body p { padding-bottom:5px;}
+.coupon .body div.button { bottom:10px; position:absolute; text-align:0px; width:93.5%;}
+.coupon .bottom { padding:4px 8px; height:28px; background:#f2f0f0;}
+.coupon a:hover { text-decoration:none;}
+/*this css use for coupon start end*/
+
+/*cms_box_row start*/
+.cms_box_row { margin-top:15px;}
+.cms_box_row .panel { height:250px; position:relative;}
+.cms_box_row .panel .panel-footer { position:absolute; bottom:0px; width:100%;}
+.cms_box_row a { color:#aea79f;}
+.cms_box_row a:hover { color:#4f4e4d; text-decoration:none;}
+/*cms_box_row end*/
+
+.page_titel { margin-top:0px; margin-bottom:20px; padding-bottom:4px; color:#666666; border-bottom:1px dashed #CCCCCC;}
+
+/*responsive work start*/
+@media (max-width: 640px) {
+.navbar-default .navbar-nav .open .dropdown-menu > li > a { color:#333;}
+.theme_tab ul li { font-size:14px;}
+.index_right_part .titel { margin:30px 0 15px 0;}
+}
+@media (max-width: 480px) {
+.theme_tab ul li { font-size:12px;}	
+}
+/*responsive work end*/
+
