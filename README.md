@@ -1,10 +1,14 @@
 # B.S.ABDUR-RAHMAN-UNIVERSITY-------Pay2Use--Online-Recharge-Application-
 Pay2Use--Online-Recharge-Application
 
+INSTRUCTOR:
+    DR.SABIYATH FATHIMA
 
-Created By
-	SYED ABUDHAHIR
-	VENKATESH R
+TEAM MEMBERS:
+    SYED ABUDHAHIR 
+    VENKATESH R           
+
+Online Recharge Website:
 
 
 Step1
@@ -27,3 +31,7 @@ Type localhost on your browser and press enter to check the XAMPP installed corr
 Step6
 Now type the following on browser:
 http://localhost/web
+
+
+
+ The Project was developed as a part of the curriculum for the course IP lab(CS405)
