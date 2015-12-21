@@ -9,7 +9,12 @@ TEAM MEMBERS:
     VENKATESH R           
 
 Online Recharge Website:
+1. The purpose of this system to provide online recharge system.
+2. This system provides online recharge for Mobile, DTH and Datacard.
+3. People can access this online recharge system by using this pay2use web site.
+4. Introduces a new and genuine online recharge process.
 
+RUN PROJECT:
 
 Step1
 Install XAMPP
