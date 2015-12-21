@@ -21,7 +21,7 @@ Install XAMPP
 
 Step2
 Assume you installed xampp in C Drive.
-Go to: C:\xampp\htdocs
+Go to: C:\xampp\htdocs 
 Create your own folder, name it for example as WEB
 
 Step3
